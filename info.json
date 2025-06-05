@@ -1,0 +1,9 @@
+{
+	"Id": "test",
+	"Version": "1.0.0",
+	"DisplayName": "test",
+	"Author": "swappea",
+	"EntryMethod": "test.Main.Load",
+	"ManagerVersion": "0.27.3",
+	"Repository": "https://raw.githubusercontent.com/OWNER/REPOSITORY/main/repository.json"
+}
